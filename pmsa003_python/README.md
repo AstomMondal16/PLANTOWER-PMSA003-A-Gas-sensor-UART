@@ -5,4 +5,4 @@
 
 # Connection of PMSA003 Dust sensor with a TTL Converter.
 To interface the PMSA003 Dust sensor module with a PC via a USB port, a TTL-to-USB converter is mandatory. This device enables proper communication and voltage level matching, ensuring safe and reliable operation of the module.
-![Screenshot from 2024-12-29 22-48-57](https://github.com/user-attachments/assets/9b6fdcef-db04-4f86-aba0-e598efc6a341)
+![Screenshot from 2024-12-30 23-11-18](https://github.com/user-attachments/assets/c3b8f8ed-6a26-4b93-87ad-2b3bbc63e7dd)
